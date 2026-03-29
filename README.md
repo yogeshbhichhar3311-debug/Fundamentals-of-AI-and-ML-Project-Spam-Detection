@@ -1,4 +1,4 @@
-# Fundamentals-of-AI-and-ML-Project-Spam-Detection
+ Fundamentals of AI and ML Project : Spam Detection
 
 What Is Spam Detection?
 
